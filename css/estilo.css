@@ -1,0 +1,20 @@
+div {
+    background-color: DarkTurquoise; 
+    /* altera cor de fundo*/
+    font-family: Cambria, Cochin, Georgia, serif;
+    /*altera o tipo de fonte*/
+    font-size: 30px;
+    /*altera o tamanho da fonte*/
+}
+
+div li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+}
+
+h1,h2 { /*aplicando a regra CSS para mais de um seletor*/
+    font-size: 50px;
+}
+
+div p strong a {
+    background-color: blue;
+}
